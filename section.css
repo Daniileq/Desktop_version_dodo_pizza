@@ -1,0 +1,117 @@
+.container_newpizza{
+    display: flex;
+    width: 250px;
+    height: 104px;
+    border-radius: 17px;
+    background-color:  #FFFFFF;
+    box-shadow: 2px 2px 2px  2px #00000005;
+}
+.namepizza{
+    font-size: 14px;
+    margin-bottom: 4px;
+}
+.text_newpizza{
+
+}
+.img_newpizza{
+    margin: 14px 22px 14px 18px;
+}
+.newpizza{
+    display: flex;
+    justify-content: space-between;
+}
+.pizza_menu{
+
+}
+.bottom_shop>a{
+    background-color: #FFF0E6;
+    color: #D15700;
+    padding: 7px 15px;
+    padding-left: 26px;
+    padding-right: 26px;
+    font-size: 14px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+a:hover{
+    background-color:  #ffc7a2;
+    color: #D15700;
+    
+}
+
+.padding_pizza_menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 20px;
+    margin-top: 0;
+    
+
+}
+.container_menu{
+height: 370px;
+width: 250px;
+}
+.img_pizza{
+margin-left: 10px;
+margin-right: 10px;
+margin-bottom: 3px;
+}
+.pizza_menu{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px 10px ;
+}
+.three_line{
+    margin-bottom: 0px;
+}
+.four_line{
+    margin-top: 37px;
+    margin-bottom: 0;
+}
+.five_line{
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+.line_desserts{
+    margin-bottom: 28px;
+}
+.chis_new_york{
+    margin-bottom: 44px;
+}
+.margin_cola{
+    margin-bottom: 66px;
+}
+.container_menu_snacks{
+    height: 425px;
+    width: 250px;
+}
+.container_menu_desserts{
+    height: 406px;
+    width: 250px;
+}
+.container_menu_cola{
+    height: 387px;
+    width: 250px;
+}
+/* .bottom_cola{
+    background-color: #F3F3F7;
+    color:#73798C;
+    padding: 7px 26px;
+    padding-left: 21px;
+    padding-right: 21px;
+    font-size: 14px;
+    border-radius: 10px;
+    cursor: pointer;
+} */
+/* .bottom_cola>a{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 21px;
+    padding-right: 21px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+} */
+.container_bottom{
+    margin-bottom: 134px;
+}

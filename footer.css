@@ -1,0 +1,94 @@
+footer{
+    background-color: #464C55;
+
+}
+
+
+.footer_text{
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-bottom: 119px;
+}
+.footer_Uppertext{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #FFFFFF;
+    font-size: 18px;
+}
+.middle_footer_text{
+color: #fff;
+    opacity: 0.7;
+    font-size: 16px;
+    font-size: 16px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.container_text1{
+    display: flex;
+    justify-content: space-between;
+
+}
+.footer_app_play{
+    padding-top: 50px;
+    padding-bottom: 93px;
+    text-align: right;
+}
+.footer_namber{
+    color: #fff;
+    font-size: 26px;
+}
+.free_namber{
+    font-size: 15px;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+.mail{
+    font-size: 14px;
+    color: #FFFFFF;
+
+    opacity: 0.9;
+}
+.padding_namber{
+    padding-top: 29px;
+    padding-bottom: 26px;
+
+}
+.money{
+    font-size: 26px;
+    color: #fff;
+
+}
+.money1{
+    color: #FFFFFF;
+    opacity: 0.7;
+    font-size: 16px;
+}
+.container_text2{
+    display: flex;
+    gap: 156px;
+    padding-bottom: 40px;
+    border-bottom:  1px solid #ffffff2a;
+    
+}
+
+.container_text3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 46px;
+    padding-bottom: 43px;
+}
+.footer_info{
+    display: flex;
+    gap: 20px;
+}
+.footer_logo{
+    display: flex;
+    align-items: center;
+    gap: 28px;
+}
+/* .footer_line{
+    color: #FFFFFF;
+    
+} */

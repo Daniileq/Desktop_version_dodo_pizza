@@ -1,0 +1,42 @@
+.container{
+    font-family: 'Alef', sans-serif Arial, Helvetica, sans-serif;
+    font-family: 'Nunito', sans-serif;
+    box-sizing: border-box;
+    width: 1060px;
+    margin: 0 auto; 
+}
+body{
+    background-color:  #fff;
+    margin-top: 25px;
+}
+h1{
+    font-size: 24px;
+    color: #000;
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+.price{
+    size: 16px;
+    color: #000000;
+}
+h2{
+    font-size: 24px;
+    color: #000;
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+h3{
+    font-size: 20px;
+    color: #000000; 
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+h4{
+    font-size: 14px;
+    color: #73798C;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+
+

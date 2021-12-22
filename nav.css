@@ -1,0 +1,84 @@
+
+.header_title{
+    display: flex;
+    
+}
+.subtitle{
+    font-size: 12px;
+    color: #343434;
+    margin: 1px 0 0 14px;
+}
+.logo_name{
+    margin-left: 14px;
+}
+a{
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+    
+}
+.call{
+    font-size: 15px;
+    color: #999999;
+    margin-top: 0%;
+    text-align:right;
+    
+}
+.namber_phone{
+    display: flex;
+    flex-direction: column;
+}
+.header_nav{
+    display: flex;
+    justify-content: space-between;
+}
+.namber{
+    color:black;
+}
+.menu>a{
+    font-size: 14px;
+    margin-right: 24px;
+
+}
+.header{
+    margin-bottom: 41px;
+}
+.header_menu{
+    display: flex;
+    justify-content: space-between;
+}
+.button_trash > a{
+    background-color: #F96900;
+    color: white;
+    padding: 7px 15px;
+    font-size: 14px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.menu_cursor:hover{
+    color: #F96900;
+}
+.slider{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 38px;
+}
+@media (max-width: 425px){
+.subtitle{
+    display: none;
+
+
+}
+.button_trash{
+    display: none;
+}
+.logo_name_subtitle{
+    display: flex;
+    align-items: center;
+}
+.namber_phone{
+    display: none;
+}
+}
+
+
